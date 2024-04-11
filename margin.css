@@ -1,0 +1,12 @@
+section
+{
+    border: 1px solid black;
+}
+article
+{
+    width: 500px;
+    border: 2px solid red;
+    text-align: justify;
+    margin: auto
+    ;
+}
