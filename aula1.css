@@ -1,6 +1,25 @@
 main
 {
- border: 1px solid black;
- margin: auto;
- width: 300px;
+  
+  margin: auto;
+  width: 300px;
+}
+body
+{
+background-color: #151320;
+}
+.imagem
+{
+    margin-bottom: 3%;
+    border: ridge;
+    margin-top: 50%;
+}
+.text
+{
+    margin-top: 1%;
+    color:#fff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: dimgrey;
+    border: unset;
+
 }
