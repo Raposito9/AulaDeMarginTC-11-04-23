@@ -3,6 +3,7 @@ main
   
   margin: auto;
   width: 300px;
+  border: solid #fff;
 }
 body
 {
@@ -20,6 +21,5 @@ background-color: #151320;
     color:#fff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: dimgrey;
-    border: unset;
-
+    text-align: justify;
 }
